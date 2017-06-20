@@ -1,0 +1,50 @@
+
+.page-header {
+	background-color: #F2D4D9;
+	height: 60px;
+	margin: 0;
+	padding: 0;
+}
+
+.page-header img {
+	max-height: 100%;
+	margin-left: 55px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+
+nav.navbar{
+	background-color: #851039;
+	margin: 0;
+	padding: 0;
+	border-radius: 0;
+}
+
+.navbar ul {
+	margin-left: 27px;
+}
+
+.navbar ul li a {
+	color: #F2D4D9;
+}
+
+.navbar ul li a:hover {
+	background-color: rgba(255, 255, 255, 0.25);
+}
+
+.trailer-container {
+	align-items: center;
+	display:  flex;
+	justify-content: flex-end;
+}
+
+.trailer-container iframe {
+	border: solid 1px white;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.jumbotron {
+	background-image: url("web-photos/junkyard.jpg");
+	background-size: cover;
+}
+
